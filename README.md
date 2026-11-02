@@ -41,7 +41,7 @@ Songs are generated with Suno's v6 music models (Suno v6, v6 Mini and v6 Wild) t
 
 ## Compare
 
-Looking at other tools? Our [comparison of the best AI song generators](https://writeasongai.com/best-ai-song-generator) covers free plans, prices, downloads and commercial use for eight tools, with facts taken from each tool's own pricing page.
+Looking at other tools? Our [comparison of the best AI song generators](https://writeasongai.com/best-ai-song-generator) covers free plans, prices, downloads and commercial use for eight tools, with facts taken from each tool's own pricing page. Switching from Suno? See [Suno alternatives compared](https://writeasongai.com/suno-alternative), including open-source options you can run yourself.
 
 ## Links
 
@@ -49,6 +49,7 @@ Looking at other tools? Our [comparison of the best AI song generators](https://
 - Pricing: https://writeasongai.com/pricing
 - Lyrics to song: https://writeasongai.com/lyrics-to-song
 - Best AI song generators: https://writeasongai.com/best-ai-song-generator
+- Suno alternatives: https://writeasongai.com/suno-alternative
 - For AI assistants: https://writeasongai.com/llms.txt
 - Support: support@writeasongai.com
 
